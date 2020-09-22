@@ -7,6 +7,7 @@ Principles of **States** and **Props** used.
 ------------------
 
 Allows users to add/remove to-do items and highlight them as completed/uncompleted.
+
 Items are filtered into 'all', 'completed', and 'uncompleted' sections.
 
 
