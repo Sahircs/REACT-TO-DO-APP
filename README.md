@@ -7,4 +7,4 @@ Items are filtered into 'all', 'completed', and 'uncompleted' sections.
 
 Principles of States and Props used.
 
-![React App Demo](Pathfinding.gif)
+![React App Demo](React App Visual.gif)
