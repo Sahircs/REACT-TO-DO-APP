@@ -6,8 +6,8 @@ Allows users to add/remove to-do items and highlight them as completed/uncomplet
 Items are filtered into 'all', 'completed', and 'uncompleted' sections.
 
 Principles of States and Props used.
----------------------------------------------------------
+
 
 React App Demo
-
+----------------
 ![React App Demo](React-App-Visual.gif)
